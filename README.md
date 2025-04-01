@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there My name is Gabriel Arias👋
 
-<!--
-**Gabo793/Gabo793** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ | Ingeniero Civil | Data Scientist en continua formación
+📊 Apasionado por el análisis de datos, la automatización y la aplicación de tecnología en la construcción y gestión de proyectos.
+🏗️ Ingeniero Civil con experiencia en obras de gran escala, ahora explorando el poder de los datos para optimizar procesos en el sector AEC (Architecture, Engineering, and Construction).
 
-Here are some ideas to get you started:
+🔹 Skills: Python (Pandas, NumPy, Scikit-learn), SQL, Visualización (Matplotlib, Seaborn), Machine Learning básico.
+🔹 Bootcamp: Certificado en Data Science (enfocado en análisis predictivos y toma de decisiones).
+🔹 Proyectos: Desarrollo de dashboards, modelos de regresión para costos de construcción y scripts de automatización.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Siempre aprendiendo: Actualmente profundizando en Power Bi.
+📫 Colaboración: Abierto a proyectos innovadores donde pueda fusionar mi experiencia en ingeniería con soluciones data-driven.
+
+👉 "Los datos son el cemento de las decisiones inteligentes."
+
+[Linkedin](http://www.linkedin.com/in/gabriel-arias-p93)
