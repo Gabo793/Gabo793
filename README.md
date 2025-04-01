@@ -14,3 +14,9 @@
 👉 "Los datos son el cemento de las decisiones inteligentes."
 
 [Linkedin](http://www.linkedin.com/in/gabriel-arias-p93)
+
+## 💻 Tecnologies
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]()
+[![Power Bi](https://img.shields.io/badge/power-bi-yellow?logoColor=yellow&labelColor=yellow&color=black)]()
+[![Machine Learning](https://img.shields.io/badge/ML-Machine%20Learning-success)]()
+
